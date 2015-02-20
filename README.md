@@ -8,6 +8,7 @@ For Server machine, open the terminal, navigate to the server folder : cd //path
 and then type the command
 run sbt
 Now you’ll enter the sbt console.
+
 Server:
 > compile
 > run ScalingFactor Number_of_Client_Machines Time
@@ -57,6 +58,7 @@ We’ve implemented six functionalities, namely :
 • Re-tweet
 • Post Mention
 • Post Tweet
+
 Event Normal
 Observations and Graphs
 ￼￼￼￼Scaling Factor : 1 , Number of Client Machines: 1 , Time: 60 seconds , Event
